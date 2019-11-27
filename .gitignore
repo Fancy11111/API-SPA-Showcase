@@ -1,0 +1,5 @@
+**/packages/**
+**/node-modules/**
+**/out/**
+**/bin/**
+**/dist/**
